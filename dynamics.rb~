@@ -1,0 +1,6 @@
+# This file defines terminology for amplitude modulation.
+abrupt_dynamic_definitions = {"pianissimo" => "Very soft.", "piano" => "Soft.", "mezzo piano" => "Moderately soft.", "mezzo forte" => "Moderately loud.", "forte" => "Loud.", "fortissimo" => "Very Loud."}
+
+abrupt_dynamic_abbreviations = {"pianissimo" => "pp.", "piano" => "p.", "mezzo piano" => "m.p.", "mezzo forte" => "m.f.", "forte" => "f.", "fortissimo" => "ff."}
+
+gradual_dynamic_definitions = {
