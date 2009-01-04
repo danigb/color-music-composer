@@ -4,7 +4,7 @@
 # The interval designations are as follow: Perfect Unison, minor 2ND, Major 2ND,
 # minor 3RD, Major 3RD, Perfect 4TH, Augmented 4TH, Diminished 5TH, Perfect 5TH,
 # minor 6TH, Major 6TH, minor 7TH, Major 7TH, Perfect Octave.
-:PU = 0
+:U = 0
 :m2 = 1
 :M2 = 2
 :m3 = 3
@@ -17,7 +17,20 @@
 :M6 = 9
 :m7 = 10
 :M7 = 11
-:PO = 12
+:O = 12
+:m9 = 13
+:M9 = 14
+:m10 = 15
+:M10 = 16
+:P11 = 17
+:aug11 = 18
+:dim12 = 18
+:P12 = 19
+:m13 = 20
+:M13 = 21
+:m14 = 22
+:M14 = 23
+
 # This deviates a bit from standardized notation for the interval names.
 # Symbols normally used to designate intervals, such as ° and +, might 
 # be tricky to work with and/or conflicting with other aspects of the code. 
