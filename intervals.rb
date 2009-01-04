@@ -35,6 +35,20 @@
 # Symbols normally used to designate intervals, such as ° and +, might 
 # be tricky to work with and/or conflicting with other aspects of the code. 
 
+# Mod-12 interval system
+# :i0 = 0
+# :i1 = 1
+# :i2 = 2
+# :i3 = 3
+# :i4 = 4
+# :i5 = 5
+# :i6 = 6
+# :i7 = 7
+# :i8 = 8
+# :i9 = 9
+# :i10 = 10
+# :i11 = 11
+
 # The following code is intended to take a note input along with the desired
 # interval and also the direction of motion and calculate the following note
 # value. A rhizome creates both roots and shoots and spawns genetic thoughts :)
